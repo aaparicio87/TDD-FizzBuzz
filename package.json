@@ -1,0 +1,17 @@
+{
+  "name": "tdd-fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Alejandro",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
